@@ -45,7 +45,7 @@ flutter pub get        # 의존성 설치
 flutter run            # 앱 실행
 ```
 
-웹에서 실행 시 
+웹에서 실행 시:
 ```
 flutter run -d chrome
 ```
